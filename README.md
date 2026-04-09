@@ -1,8 +1,21 @@
 # Type-Driven Design — A Language-Agnostic AI Coding-Agent Skill
 
+> ### *Teach the compiler your invariants, and let it refuse to build the bugs.*
+
 A skill for [Claude Code](https://code.claude.com/), Cursor, Codex, OpenCode, Gemini CLI, and any other AI coding agent, that teaches the agent to apply **Type-Driven Design** when writing and reviewing code: lifting invariants into the type system so illegal states become compile-time errors rather than runtime bugs.
 
 Applies to **TypeScript, Rust, Swift, C#, F#, Haskell, Kotlin, Scala**, and any language with a meaningfully expressive type system.
+
+## Why you should care
+
+> **Let the compiler catch the bugs you're tired of catching in production.**
+>
+> What if every *"this should never happen"* became a compile error instead?
+> What if the validation code scattered through your codebase could be deleted — because the types made invalid data impossible to construct in the first place?
+>
+> That is Type-Driven Design. You design your data so precisely that the compiler refuses to build programs in which the bug you fear could occur. The runtime checks you hate become unnecessary. The tests that were only there to catch shape errors become redundant. The *"this is unreachable"* branches really are unreachable — provably, at compile time.
+>
+> **If the compiler is happy, the bug you feared doesn't exist.**
 
 ## What it does
 
