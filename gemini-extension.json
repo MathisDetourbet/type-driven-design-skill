@@ -1,0 +1,6 @@
+{
+  "name": "type-driven-design",
+  "description": "Language-agnostic guidance on Type-Driven Design for Gemini: make illegal states unrepresentable, parse don't validate, lift invariants into the type system. Covers TypeScript, Rust, Swift, C#, F#, Haskell, Kotlin, Scala.",
+  "version": "0.1.0",
+  "contextFileName": "GEMINI.md"
+}

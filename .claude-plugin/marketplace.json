@@ -1,0 +1,18 @@
+{
+  "name": "type-driven-design-marketplace",
+  "description": "Marketplace for the language-agnostic Type-Driven Design skill plugin.",
+  "owner": {
+    "name": "Mathis Detourbet"
+  },
+  "plugins": [
+    {
+      "name": "type-driven-design",
+      "description": "Language-agnostic Claude Code skill for Type-Driven Design across TypeScript, Rust, Swift, C#, F#, Haskell, Kotlin, and Scala.",
+      "version": "0.1.0",
+      "source": "./",
+      "author": {
+        "name": "Mathis Detourbet"
+      }
+    }
+  ]
+}

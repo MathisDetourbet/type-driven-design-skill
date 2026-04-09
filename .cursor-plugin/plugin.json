@@ -1,0 +1,18 @@
+{
+  "name": "type-driven-design",
+  "displayName": "Type-Driven Design",
+  "description": "Language-agnostic guidance on Type-Driven Design: make illegal states unrepresentable, parse don't validate, and lift invariants into the type system. Covers TypeScript, Rust, Swift, C#, F#, Haskell, Kotlin, and Scala.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Mathis Detourbet"
+  },
+  "homepage": "https://github.com/MathisDetourbet/type-driven-design-skill",
+  "repository": "https://github.com/MathisDetourbet/type-driven-design-skill",
+  "keywords": [
+    "type-driven-design",
+    "parse-dont-validate",
+    "algebraic-data-types",
+    "domain-modeling"
+  ],
+  "skills": "./skills/"
+}
